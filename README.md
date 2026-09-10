@@ -21,3 +21,6 @@ The analysis covered FY2023–FY2025 financial performance and used comparable-c
 #Files
 - Apple Equity Research Report (AAPL).pdf – Full equity research report
 - Apple Financial Data.xlsx – Financial data and valuation model
+
+#Disclaimer
+This project is for educational purposes and is not financial advice.
